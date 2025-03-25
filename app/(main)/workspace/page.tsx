@@ -5,7 +5,7 @@ import ChatUi from "./_components/ChatUi";
 
 function WorkSpace() {
   return (
-    <div className="h-screen fixed   w-full ">
+    <div className="h-screen    w-full ">
       <div className="grid grid-cols-5">
         <div className="hidden md:block">
           {/*1 Assistant List */}
